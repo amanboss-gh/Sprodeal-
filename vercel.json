@@ -1,0 +1,19 @@
+{
+  "rewrites": [
+    { "source": "/memberRegister", "destination": "/index.html" },
+    { "source": "/register", "destination": "/index.html" },
+    { "source": "/checkout", "destination": "/index.html" },
+    { "source": "/checkoutV2", "destination": "/index.html" },
+    { "source": "/checkoutV3", "destination": "/index.html" },
+    { "source": "/checkoutV4", "destination": "/index.html" },
+    { "source": "/checkoutV5", "destination": "/index.html" },
+    { "source": "/checkoutV6", "destination": "/index.html" },
+    { "source": "/checkoutV7", "destination": "/index.html" },
+    { "source": "/checkoutV8", "destination": "/index.html" },
+    { "source": "/checkoutV9", "destination": "/index.html" },
+    { "source": "/paymentSon", "destination": "/index.html" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/memberRegister", "statusCode": 302 }
+  ]
+}
